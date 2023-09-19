@@ -20,6 +20,7 @@
 
 /**
  * struct fmt - Struct op
+ * by sunday and gift
  *
  * @fmt: The format.
  * @fn: The function associated.
